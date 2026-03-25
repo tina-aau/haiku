@@ -12,5 +12,10 @@ body{
 	/*grid-template-column: 1fr 1fr 1fr;*/
 	grid-template-column: repeat (auto-fit, mimiax (320px, 1fr));
 	gap: 2rem;
+	margin: 10% 4rem 0 4rem;
+}
+.last{
+	padding-bottom: 2rem;
+	border-bottom: 2px solid rgb(220,200,180);
 }
 
